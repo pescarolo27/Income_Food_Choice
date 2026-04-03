@@ -1,3 +1,5 @@
+# Influence of Income on Food Choice (Python)
+
 **Background:** Does eating healthy depend on what’s in your wallet? While some believe nutritious food is a luxury reserved for those who can afford it, others argue that education, accessibility, and policy interventions play an even bigger role. 
 As part of a public health research team, your mission is to uncover the real factors driving food choices. Are healthier foods truly more expensive, or do regional access, income distribution, and availability have a greater impact? 
 Your insights could help shape smarter food policies, making healthy eating more affordable and accessible for all. Are you ready to dig into the data and make a real-world impact?
